@@ -1,0 +1,26 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "depositos_y_o_transferencia",
+    "license": "proprietary",
+    "category": "payments",
+    "description": {
+        "name": "Depósitos y/o Transferencia",
+        "tagline": "Para pagos realizados por depósito y/o transferencia.",
+        "long": "Acepte pagos fuera de línea proporcionando sus datos para recibir depositos y/o transferencia bancaria.",
+        "features": []
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https://www.briangarcia.com.ar/",
+        "email": "whmcs@briangarcia.com.ar"
+    },
+    "authors": [
+        {
+            "name": "BG - Soluciones Web",
+            "homepage": "https://www.briangarcia.com.ar/"
+        }
+    ]
+}
